@@ -1,0 +1,11 @@
+D:\cdek\CeeSharp\Ceesharpim\Ceesharpim\bin\Debug\netcoreapp2.2\Ceesharpim.deps.json
+D:\cdek\CeeSharp\Ceesharpim\Ceesharpim\bin\Debug\netcoreapp2.2\Ceesharpim.runtimeconfig.json
+D:\cdek\CeeSharp\Ceesharpim\Ceesharpim\bin\Debug\netcoreapp2.2\Ceesharpim.runtimeconfig.dev.json
+D:\cdek\CeeSharp\Ceesharpim\Ceesharpim\bin\Debug\netcoreapp2.2\Ceesharpim.dll
+D:\cdek\CeeSharp\Ceesharpim\Ceesharpim\bin\Debug\netcoreapp2.2\Ceesharpim.pdb
+D:\cdek\CeeSharp\Ceesharpim\Ceesharpim\obj\Debug\netcoreapp2.2\Ceesharpim.csprojAssemblyReference.cache
+D:\cdek\CeeSharp\Ceesharpim\Ceesharpim\obj\Debug\netcoreapp2.2\Ceesharpim.csproj.CoreCompileInputs.cache
+D:\cdek\CeeSharp\Ceesharpim\Ceesharpim\obj\Debug\netcoreapp2.2\Ceesharpim.AssemblyInfoInputs.cache
+D:\cdek\CeeSharp\Ceesharpim\Ceesharpim\obj\Debug\netcoreapp2.2\Ceesharpim.AssemblyInfo.cs
+D:\cdek\CeeSharp\Ceesharpim\Ceesharpim\obj\Debug\netcoreapp2.2\Ceesharpim.dll
+D:\cdek\CeeSharp\Ceesharpim\Ceesharpim\obj\Debug\netcoreapp2.2\Ceesharpim.pdb
